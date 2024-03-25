@@ -1,0 +1,26 @@
+﻿@using ICI.ProvaCandidato.Negocio.Models.Noticias
+@model Noticiia
+
+@{
+    ViewBag.Title = "Editar Notícia";
+}
+
+<h2>Editar Notícia</h2>
+
+@using (Html.BeginForm("Edit", "Noticia", FormMethod.Post))
+{
+    @Html.HiddenFor(model => model.Id)
+
+    <div>
+        @Html.LabelFor(model => model.Titulo)
+        @Html.TextBoxFor(model => model.Titulo)
+    </div>
+    <div>
+        @Html.LabelFor(model => model.Texto)
+        @Html.TextAreaFor(model => model.Texto, new { rows = 4, cols = 40 })
+    </div>
+    <!-- Adicione mais campos conforme necessário -->
+    <div>
+        <input type="submit" value="Salvar" />
+    </div>
+}

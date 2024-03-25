@@ -1,0 +1,124 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Notícias</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+</head>
+<body>
+    <h1>Lista de Notícias</h1>
+
+    <div>
+        <h2>Criar Nova Notícia</h2>
+        <label for="titulo">Título:</label>
+        <input type="text" id="titulo" placeholder="Digite o título"><br>
+
+        <label for="texto">Texto:</label>
+        <textarea id="texto" placeholder="Digite o texto"></textarea><br>
+
+        <label for="tags">Tag da Notícia:</label>
+        <input type="text" id="tags" placeholder="Digite uma tag para a notícia"><br>
+
+        <button onclick="limparFormulario()">Limpar</button>
+        <button id="criarNoticiaBtn">Criar Notícia</button>
+    </div>
+
+    <h2>Notícias Cadastradas</h2>
+    <table id="noticiasTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Título</th>
+                <th>Texto</th>
+                <th>Tag</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+    </table>
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            carregarNoticias();
+
+            $('#criarNoticiaBtn').click(function () {
+                var titulo = $('#titulo').val();
+                var texto = $('#texto').val();
+                var tag = $('#tags').val().trim(); 
+
+                var novaNoticia = {
+                    Titulo: titulo,
+                    Texto: texto,
+                    Tag: tag
+                };
+
+                $.ajax({
+                    url: '/api/Noticia/Create',
+                    type: 'POST',
+                    contentType: 'application/json',
+                    data: JSON.stringify(novaNoticia),
+                    success: function (response) {
+                        alert('Notícia cadastrada com sucesso!');
+                        carregarNoticias();
+                        $('#titulo').val('');
+                        $('#texto').val('');
+                        $('#tags').val('');
+                    },
+                    error: function (xhr, status, error) {
+                        alert('Erro ao cadastrar a notícia: ' + error);
+                    }
+                });
+            });
+        });
+
+        function limparFormulario() {
+            document.getElementById("titulo").value = "";
+            document.getElementById("texto").value = "";
+            document.getElementById("tags").value = "";
+        }
+
+        function carregarNoticias() {
+            $.ajax({
+                url: '/api/Noticia/GetAll',
+                type: 'GET',
+                success: function (noticias) {
+                    var tableBody = $('#noticiasTable tbody');
+                    tableBody.empty();
+                    noticias.forEach(function (noticia) {
+                        var row = $('<tr>');
+                        row.append($('<td>').text(noticia.id)); 
+                        row.append($('<td>').text(noticia.titulo)); 
+                        row.append($('<td>').text(noticia.texto)); 
+                        row.append($('<td>').text(noticia.tag)); 
+                        var actions = $('<td>');
+                        actions.append($('<button>').addClass('btn-delete').text('Excluir').data('id', noticia.id));
+                        row.append(actions);
+                        tableBody.append(row);
+                    });
+                },
+                error: function (xhr, status, error) {
+                    console.error('Erro ao carregar notícias: ' + error);
+                }
+            });
+        }
+
+        function excluirNoticia(id) {
+            $.ajax({
+                url: '/api/Noticia/Delete/' + id,
+                type: 'DELETE',
+                success: function (result) {
+                    alert('Notícia excluída com sucesso!');
+                    carregarNoticias();
+                },
+                error: function (xhr, status, error) {
+                    alert('Erro ao excluir notícia: ' + error);
+                }
+            });
+        }
+    </script>
+</body>
+</html>

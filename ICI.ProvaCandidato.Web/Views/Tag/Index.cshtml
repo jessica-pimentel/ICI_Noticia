@@ -1,0 +1,167 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Visualização de Tags</title>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+</head>
+<body>
+    <h1>Tags Cadastradas</h1>
+    <div>
+        <label for="search">Pesquisar por Descrição:</label>
+        <input type="text" id="search" onkeyup="searchTags()" placeholder="Digite a descrição da Tag">
+    </div>
+    <div>
+        <input type="text" id="novaTagDescricao" placeholder="Digite a descrição da nova Tag">
+        <button id="cadastrarTagBtn" class="btn btn-primary">Cadastrar Nova Tag</button>
+    </div>
+    <table id="tagsTable">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Descrição</th>
+                <th>Ações</th>
+            </tr>
+        </thead>
+        <tbody id="tagsTableBody">
+
+        </tbody>
+    </table>
+
+
+    <div id="editTagForm" style="display: none;">
+        <h2>Editar Descrição da Tag</h2>
+        <label for="editTagDescricao">Nova Descrição:</label>
+        <input type="text" id="editTagDescricao">
+        <button id="salvarTagBtn" class="btn btn-primary">Salvar</button>
+        <button id="cancelarEdicaoBtn" class="btn btn-secondary">Cancelar</button>
+    </div>
+
+
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+    <script>
+        
+        function searchTags() {
+            var input, filter, table, tr, td, i, txtValue;
+            input = document.getElementById("search");
+            filter = input.value.toUpperCase();
+            table = document.getElementById("tagsTable");
+            tr = table.getElementsByTagName("tr");
+            for (i = 0; i < tr.length; i++) {
+                td = tr[i].getElementsByTagName("td")[1]; 
+                if (td) {
+                    txtValue = td.textContent || td.innerText;
+                    if (txtValue.toUpperCase().indexOf(filter) > -1) {
+                        tr[i].style.display = "";
+                    } else {
+                        tr[i].style.display = "none";
+                    }
+                }
+            }
+        }
+
+        
+        function carregarTags() {
+            $.ajax({
+                url: '/api/Tag/GetAll', 
+                type: 'GET',
+                success: function (response) {
+                    var tags = response; 
+                    var tableBody = $('#tagsTableBody');
+                    tableBody.empty();
+                    $.each(tags, function (index, tag) {
+                        var row = $('<tr>');
+                        row.append($('<td>').text(tag.id));
+                        row.append($('<td>').text(tag.descricao));
+                        var actions = $('<td>');
+                        actions.append($('<button>').attr('onclick', 'editarTag(' + tag.id + ')').text('Editar'));
+                        actions.append(' | ');
+                        actions.append($('<button>').attr('onclick', 'excluirTag(' + tag.id + ')').text('Excluir'));
+                        row.append(actions);
+                        tableBody.append(row);
+                    });
+                },
+                error: function (xhr, status, error) {
+                    console.error(error);
+       
+                }
+            });
+        }
+
+
+        function editarTag(id) {
+            var descricaoAtual = $('#tagsTableBody').find('tr[data-id="' + id + '"]').find('td:eq(1)').text();
+            $('#editTagDescricao').val(descricaoAtual);
+            $('#editTagForm').show();
+            $('#editTagForm').data('tagId', id);
+        }
+
+
+        $('#cancelarEdicaoBtn').click(function () {
+            $('#editTagForm').hide();
+        });
+
+        
+        $('#salvarTagBtn').click(function () {
+            var id = $('#editTagForm').data('tagId');
+            var novaDescricao = $('#editTagDescricao').val();
+            $.ajax({
+                url: '/api/Tag/Update/' + id,
+                type: 'PUT',
+                data: { descricao: novaDescricao },
+                success: function (response) {
+                    console.log('Descrição da Tag atualizada com sucesso!');
+                    carregarTags();
+                    $('#editTagForm').hide();
+                },
+                error: function (xhr, status, error) {
+                    alert('Erro ao editar a descrição da Tag: ' + error);
+                }
+            });
+        });
+
+        
+        function excluirTag(id) {
+            $.ajax({
+                url: '/api/Tag/Delete/' + id,
+                type: 'DELETE',
+                success: function (response) {
+                    carregarTags();
+                },
+                error: function (xhr, status, error) {
+                    alert('Erro ao excluir a Tag: ' + error);
+                }
+            });
+        }
+
+       
+        $('#cadastrarTagBtn').click(function () {
+            var novaTagDescricao = $('#novaTagDescricao').val();
+            var novaTag = {
+                Descricao: novaTagDescricao
+            };
+            $.ajax({
+                url: '/api/Tag/Create',
+                type: 'POST',
+                contentType: 'application/json', 
+                data: JSON.stringify(novaTag),
+                success: function (response) {
+                    alert('Tag cadastrada com sucesso!');
+                    carregarTags();
+                    $('#novaTagDescricao').val('');
+                },
+                error: function (xhr, status, error) {
+                    alert('Erro ao cadastrar a Tag: ' + error);
+                }
+            });
+        });
+
+ 
+        $(document).ready(function () {
+            carregarTags();
+        });
+    </script>
+</body>
+</html>

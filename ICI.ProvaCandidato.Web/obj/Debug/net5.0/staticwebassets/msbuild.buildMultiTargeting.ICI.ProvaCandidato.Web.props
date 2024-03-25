@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ICI.ProvaCandidato.Web.props" />
+</Project>

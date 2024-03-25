@@ -1,0 +1,23 @@
+﻿@model ICI.ProvaCandidato.Web.ViewModel.CreateViewModel
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Criar Nova Notícia</title>
+</head>
+<body>
+    <h1>Criar Nova Notícia</h1>
+
+    <form asp-controller="Home" asp-action="Create" method="post">
+        <div>
+            <label for="titulo">Título:</label>
+            <input type="text" id="titulo" name="Titulo" required>
+        </div>
+        <div>
+            <label for="texto">Texto:</label>
+            <textarea id="texto" name="Texto" rows="4" required></textarea>
+        </div>
+        <button type="submit">Criar Notícia</button>
+    </form>
+</body>
+</html>

@@ -1,0 +1,36 @@
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.deps.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.runtimeconfig.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.runtimeconfig.dev.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Negocio.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Negocio.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.csproj.CopyComplete
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\refint\ICI.ProvaCandidato.Dados.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ref\ICI.ProvaCandidato.Dados.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.deps.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.runtimeconfig.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.runtimeconfig.dev.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Negocio.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\bin\Debug\net5.0\ICI.ProvaCandidato.Negocio.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.csproj.CopyComplete
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\refint\ICI.ProvaCandidato.Dados.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ICI.ProvaCandidato.Dados.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Dados\obj\Debug\net5.0\ref\ICI.ProvaCandidato.Dados.dll

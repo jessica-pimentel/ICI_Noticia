@@ -1,0 +1,11 @@
+﻿@using ICI.ProvaCandidato.Negocio.Models.Noticias.Tags
+@model Tag
+
+<form asp-action="Edit">
+    <input type="hidden" asp-for="Id" />
+    <div>
+        <label for="description">Descrição:</label>
+        <input type="text" id="description" name="Description" value="@Model.Descricao" />
+    </div>
+    <button type="submit">Salvar</button>
+</form>

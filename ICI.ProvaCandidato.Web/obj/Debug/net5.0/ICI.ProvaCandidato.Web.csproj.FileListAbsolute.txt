@@ -1,0 +1,157 @@
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\appsettings.json
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.exe
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.deps.json
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.runtimeconfig.json
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.runtimeconfig.dev.json
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.dll
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ref\ICI.ProvaCandidato.Web.dll
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.pdb
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.Views.dll
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.Views.pdb
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.csproj.AssemblyReference.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.GMSBEC.editorconfig
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.AssemblyInfoInputs.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.AssemblyInfo.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.csproj.CoreCompileInputs.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorAssemblyInfo.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorAssemblyInfo.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\scopedcss\bundle\ICI.ProvaCandidato.Web.styles.css
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\staticwebassets\ICI.ProvaCandidato.Web.StaticWebAssets.Manifest.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.TagHelpers.input.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.TagHelpers.output.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorCoreGenerate.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorTargetAssemblyInfo.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorTargetAssemblyInfo.cs
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.Views.pdb
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.dll
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ref\ICI.ProvaCandidato.Web.dll
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.pdb
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.genruntimeconfig.cache
+C:\Projetos\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.csproj.CopyComplete
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorAssemblyInfo.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorAssemblyInfo.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.TagHelpers.input.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.TagHelpers.output.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorCoreGenerate.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorTargetAssemblyInfo.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorTargetAssemblyInfo.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.Views.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\scopedcss\bundle\ICI.ProvaCandidato.Web.styles.css
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\staticwebassets\ICI.ProvaCandidato.Web.StaticWebAssets.Manifest.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\staticwebassets\ICI.ProvaCandidato.Web.StaticWebAssets.Pack.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\refint\ICI.ProvaCandidato.Web.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\Faculdade e Pós\Prova Candidato .NET\ProvaCandidato - 1\ProvaCandidato\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\appsettings.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.exe
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.deps.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.runtimeconfig.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.runtimeconfig.dev.json
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.Views.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Web.Views.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Dapper.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Humanizer.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\System.Web.Razor.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Negocio.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Dados.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\bin\Debug\net5.0\ICI.ProvaCandidato.Negocio.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.csproj.AssemblyReference.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.AssemblyInfoInputs.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.AssemblyInfo.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.csproj.CoreCompileInputs.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorAssemblyInfo.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorAssemblyInfo.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.TagHelpers.input.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.TagHelpers.output.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorCoreGenerate.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Noticia\Create.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Noticia\Edit.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Noticia\Index.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Noticia\Privacy.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Tag\Create.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Tag\Edit.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Tag\Index.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Tag\Privacy.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorTargetAssemblyInfo.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.RazorTargetAssemblyInfo.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.Views.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\scopedcss\bundle\ICI.ProvaCandidato.Web.styles.css
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\staticwebassets\ICI.ProvaCandidato.Web.StaticWebAssets.Manifest.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\staticwebassets\ICI.ProvaCandidato.Web.StaticWebAssets.Pack.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\staticwebassets\msbuild.ICI.ProvaCandidato.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\staticwebassets\msbuild.build.ICI.ProvaCandidato.Web.props
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildMultiTargeting.ICI.ProvaCandidato.Web.props
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\staticwebassets\msbuild.buildTransitive.ICI.ProvaCandidato.Web.props
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.csproj.CopyComplete
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\refint\ICI.ProvaCandidato.Web.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.pdb
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ICI.ProvaCandidato.Web.genruntimeconfig.cache
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\ref\ICI.ProvaCandidato.Web.dll
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Home\Create.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\jessi\OneDrive\Ambiente de Trabalho\ICI.ProvaCandidato\ICI.ProvaCandidato.Web\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
