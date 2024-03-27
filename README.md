@@ -9,6 +9,7 @@ O projeto segue o padrão de arquitetura DDD (Domain-Driven Design) para estrutu
 
 - .NET 5 (.NET Core MVC)
 - C#
+- SQLServer
 - HTML
 - CSS
 - JavaScript
